@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LinkedLists
-{
-    internal class Node
-    {
-        public int data;
-        public Node next;
-        public Node(int data)
-        {
-            this.data = data;
-        }
-    }
-}
+//namespace LinkedLists
+//{
+//    internal class Node
+//    {
+//        public int data;
+//        public Node next;
+//        public Node(int data)
+//        {
+//            this.data = data;
+//        }
+//    }
+//}
